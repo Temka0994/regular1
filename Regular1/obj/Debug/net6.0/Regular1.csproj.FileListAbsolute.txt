@@ -1,0 +1,15 @@
+C:\Users\plesk\source\repos\Regular1\bin\Debug\net6.0\Regular1.exe
+C:\Users\plesk\source\repos\Regular1\bin\Debug\net6.0\Regular1.deps.json
+C:\Users\plesk\source\repos\Regular1\bin\Debug\net6.0\Regular1.runtimeconfig.json
+C:\Users\plesk\source\repos\Regular1\bin\Debug\net6.0\Regular1.dll
+C:\Users\plesk\source\repos\Regular1\bin\Debug\net6.0\Regular1.pdb
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\Regular1.csproj.AssemblyReference.cache
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\Regular1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\Regular1.AssemblyInfoInputs.cache
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\Regular1.AssemblyInfo.cs
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\Regular1.csproj.CoreCompileInputs.cache
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\Regular1.dll
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\refint\Regular1.dll
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\Regular1.pdb
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\Regular1.genruntimeconfig.cache
+C:\Users\plesk\source\repos\Regular1\obj\Debug\net6.0\ref\Regular1.dll
